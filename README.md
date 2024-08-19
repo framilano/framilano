@@ -13,4 +13,5 @@ Hi! I'm a developer born in 1998, I currently work with AWS and backend technolo
 
 ## Artistic Stuff
 In my free time (*usually night time* 🌙) I like doing some simple pixel art animations, programming isn't the only way to express yourself.
+
 [I made a Youtube playlist containing all of them](https://www.youtube.com/playlist?list=PLt7-rFt-vkg-Rz6yp3cDInXw5yAJ6mS1j)
