@@ -1,5 +1,5 @@
 ## *Salutations* 👋
-Hi! I'm a developer born in 1998, I currently work with AWS and backend technologies, but I'm studying reverse engineering and security related topics.
+Hi! I'm a developer born in 1998, I currently work with AWS and backend technologies, but I'm studying reverse engineering and security related topics too.
 
 <img src="https://github.com/user-attachments/assets/de873013-7df4-4ca1-8596-ab3b52ea9df0" width="400" height="400"/>
 <img src="https://github.com/user-attachments/assets/54c59d00-bdec-4aeb-a019-58ef46ee9fbe" width="400" height="400"/>
