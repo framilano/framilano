@@ -8,7 +8,6 @@ Hi! I'm a developer born in 1998, I currently work with AWS and backend technolo
 - 🌐 Created a bunch of static web pages while I was studying frontend related stuff
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=framilano&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![framilano's GitHub stats](https://github-readme-stats.vercel.app/api?username=framilano&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Artistic Stuff
 In my free time (*usually night time* 🌙) I like doing some simple pixel art animations, drawing it's a pretty cool way to express yourself.
