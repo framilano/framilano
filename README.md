@@ -1,7 +1,7 @@
 ## *Salutations* 👋
 ### Hi! I'm a developer born in 1998, I currently work with AWS and backend technologies, but I'm studying reverse engineering and security related topics too.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=framilano)](https://github.com/anuraghazra/github-readme-stats)
+![framilano's GitHub stats](https://github-readme-stats.vercel.app/api?username=framilano)
 
 ### In my free time (*usually night time* 🌙) I like doing some simple pixel art animations, drawing it's a pretty cool way to express yourself.
 
